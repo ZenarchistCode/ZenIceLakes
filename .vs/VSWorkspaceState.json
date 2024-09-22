@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\data",
+    "\\data\\models",
+    "\\data\\textures",
+    "\\data\\textures\\iceplane",
+    "\\scripts",
+    "\\scripts\\4_world",
+    "\\scripts\\4_world\\classes",
+    "\\scripts\\4_world\\classes\\useractionscomponent",
+    "\\scripts\\4_world\\classes\\useractionscomponent\\actions",
+    "\\scripts\\4_world\\classes\\useractionscomponent\\actions\\continuous",
+    "\\scripts\\4_world\\entities",
+    "\\scripts\\4_world\\entities\\itembase"
+  ],
+  "SelectedNode": "\\config.cpp",
+  "PreviewInSolutionExplorer": false
+}

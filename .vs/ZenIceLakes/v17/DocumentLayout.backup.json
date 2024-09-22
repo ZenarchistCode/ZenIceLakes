@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\4_world\\classes\\useractionscomponent\\ActionConstructor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts\\4_world\\classes\\useractionscomponent\\ActionConstructor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\4_world\\entities\\itembase\\FishingRod_Base_New.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts\\4_world\\entities\\itembase\\FishingRod_Base_New.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|P:\\#Zenarchist\\ZenMods\\ZenModPack\\scripts\\4_World\\Entities\\#VanillaOverrides\\ItemBase\\FishingRod_Base_New.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\4_world\\classes\\useractionscomponent\\actions\\continuous\\ActionZenFishingIceHole.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts\\4_world\\classes\\useractionscomponent\\actions\\continuous\\ActionZenFishingIceHole.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\4_world\\classes\\useractionscomponent\\actions\\continuous\\ActionFishingNew.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts\\4_world\\classes\\useractionscomponent\\actions\\continuous\\ActionFishingNew.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\config.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|P:\\DZ\\gear\\tools\\config.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\3_game\\ZenIcePlanesDefault.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts\\3_game\\ZenIcePlanesDefault.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\5_mission\\Mission\\MissionServer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts\\5_mission\\Mission\\MissionServer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActionConstructor.c",
+              "DocumentMoniker": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\4_world\\classes\\useractionscomponent\\ActionConstructor.c",
+              "RelativeDocumentMoniker": "scripts\\4_world\\classes\\useractionscomponent\\ActionConstructor.c",
+              "ToolTip": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\4_world\\classes\\useractionscomponent\\ActionConstructor.c",
+              "RelativeToolTip": "scripts\\4_world\\classes\\useractionscomponent\\ActionConstructor.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-21T05:36:05.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FishingRod_Base_New.c",
+              "DocumentMoniker": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\4_world\\entities\\itembase\\FishingRod_Base_New.c",
+              "RelativeDocumentMoniker": "scripts\\4_world\\entities\\itembase\\FishingRod_Base_New.c",
+              "ToolTip": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\4_world\\entities\\itembase\\FishingRod_Base_New.c",
+              "RelativeToolTip": "scripts\\4_world\\entities\\itembase\\FishingRod_Base_New.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-21T05:36:03.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FishingRod_Base_New.c",
+              "DocumentMoniker": "P:\\#Zenarchist\\ZenMods\\ZenModPack\\scripts\\4_World\\Entities\\#VanillaOverrides\\ItemBase\\FishingRod_Base_New.c",
+              "RelativeDocumentMoniker": "..\\ZenModPack\\scripts\\4_World\\Entities\\#VanillaOverrides\\ItemBase\\FishingRod_Base_New.c",
+              "ToolTip": "P:\\#Zenarchist\\ZenMods\\ZenModPack\\scripts\\4_World\\Entities\\#VanillaOverrides\\ItemBase\\FishingRod_Base_New.c",
+              "RelativeToolTip": "..\\ZenModPack\\scripts\\4_World\\Entities\\#VanillaOverrides\\ItemBase\\FishingRod_Base_New.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-21T05:35:58.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActionZenFishingIceHole.c",
+              "DocumentMoniker": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\4_world\\classes\\useractionscomponent\\actions\\continuous\\ActionZenFishingIceHole.c",
+              "RelativeDocumentMoniker": "scripts\\4_world\\classes\\useractionscomponent\\actions\\continuous\\ActionZenFishingIceHole.c",
+              "ToolTip": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\4_world\\classes\\useractionscomponent\\actions\\continuous\\ActionZenFishingIceHole.c",
+              "RelativeToolTip": "scripts\\4_world\\classes\\useractionscomponent\\actions\\continuous\\ActionZenFishingIceHole.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-21T05:35:41.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActionFishingNew.c",
+              "DocumentMoniker": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\4_world\\classes\\useractionscomponent\\actions\\continuous\\ActionFishingNew.c",
+              "RelativeDocumentMoniker": "scripts\\4_world\\classes\\useractionscomponent\\actions\\continuous\\ActionFishingNew.c",
+              "ToolTip": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\4_world\\classes\\useractionscomponent\\actions\\continuous\\ActionFishingNew.c",
+              "RelativeToolTip": "scripts\\4_world\\classes\\useractionscomponent\\actions\\continuous\\ActionFishingNew.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-21T05:30:47.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "config.cpp",
+              "DocumentMoniker": "P:\\DZ\\gear\\tools\\config.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\DZ\\gear\\tools\\config.cpp",
+              "ToolTip": "P:\\DZ\\gear\\tools\\config.cpp",
+              "RelativeToolTip": "..\\..\\..\\DZ\\gear\\tools\\config.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T05:25:34.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MissionServer.c",
+              "DocumentMoniker": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\5_mission\\Mission\\MissionServer.c",
+              "RelativeDocumentMoniker": "scripts\\5_mission\\Mission\\MissionServer.c",
+              "ToolTip": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\5_mission\\Mission\\MissionServer.c",
+              "RelativeToolTip": "scripts\\5_mission\\Mission\\MissionServer.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-21T05:03:54.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "config.cpp",
+              "DocumentMoniker": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\config.cpp",
+              "RelativeDocumentMoniker": "config.cpp",
+              "ToolTip": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\config.cpp",
+              "RelativeToolTip": "config.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T05:02:38.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZenIcePlanesDefault.c",
+              "DocumentMoniker": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\3_game\\ZenIcePlanesDefault.c",
+              "RelativeDocumentMoniker": "scripts\\3_game\\ZenIcePlanesDefault.c",
+              "ToolTip": "P:\\#Zenarchist\\ZenMods\\ZenIceLakes\\scripts\\3_game\\ZenIcePlanesDefault.c",
+              "RelativeToolTip": "scripts\\3_game\\ZenIcePlanesDefault.c",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBMAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-21T03:22:09.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
