@@ -30,7 +30,7 @@ class ZenIcePlanesDefault
 			{
 				FileHandle file_handle = OpenFile(file_path, FileMode.READ);
 				string line_content = "";
-				int lineCount;
+				int lineCount = 0;
 
 				while (FGets(file_handle, line_content) >= 0)
 				{
